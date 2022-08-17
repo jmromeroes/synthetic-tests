@@ -8,6 +8,6 @@ public class App extends Object
 {
     public static void main( String[] args )
     {
-        return null;
+        new RuntimeException();
     }
 }
