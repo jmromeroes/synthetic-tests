@@ -16,6 +16,7 @@ public class App
             String f() {
                 int a[] = new int[1];
                 int b[] = new int[2];
+                int c[] = new int[2];
                 if(a.equals(b)) {
                     return "";
                 }
