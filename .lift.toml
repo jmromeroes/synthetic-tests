@@ -1,3 +1,4 @@
-jdkVersion="17"
-build="maven"
-tools=["errorprone"]
+build = "maven"
+tools = [ "errorprone" ]
+important = [ "UnusedVariable", "ClassCanBeStatic" ]
+jdkVersion = "17"
